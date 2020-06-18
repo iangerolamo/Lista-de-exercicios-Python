@@ -1,1 +1,1 @@
-# Lista-de-exerc-cios-Python
+# Lista-de-exercicios-Python
